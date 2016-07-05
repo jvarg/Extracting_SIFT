@@ -1,5 +1,5 @@
 # Extracting_SIFT
-This code extracts sift features from images using opencv.
+This python script extracts sift features from images using opencv.
 
 If you are using this code for any reason please cite the following paper:
 
